@@ -1,0 +1,19 @@
+
+	graph { 
+		fill-color: #1c1c1c;
+	}
+
+	node {
+	      size: 12px; fill-color: #dee7ff; stroke-mode: plain; stroke-width: 2px; stroke-color: #CCF; shadow-mode: gradient-radial; shadow-width: 10px; shadow-color: #EEF, #000; shadow-offset: 0px;
+	      text-color: white;
+	
+
+	    }
+
+
+
+
+	edge{
+		fill-color: #777; shadow-mode: plain; shadow-width: 3px; shadow-color: #FC0; shadow-offset: 0px; text-color: #8aaaff;
+	}
+
